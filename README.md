@@ -1,5 +1,5 @@
 # Postman
-Postman - domaci zadatak
+Postman - vezbanje
 
 A hosted REST-API ready to respond to your AJAX requests.
 https://reqres.in/ 
